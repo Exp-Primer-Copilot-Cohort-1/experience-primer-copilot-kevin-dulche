@@ -20,5 +20,8 @@ app.use(bodyParser.json());
 
 // Data
 var comments = [
-  {
-    id: 1,
+    {
+        id: 1,
+        name: 'John Doe'
+    }
+];
